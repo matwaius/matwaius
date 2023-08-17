@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing many applications since 2016.<br>📚 I'm currently learning React-Native.<br>🎯 Goals: Improve my skills.<br>🎲 Fun fact: I love animes.</p>
+<p align="left">✨ Developing many applications since 2016.<br>📚 I'm currently learning React-Native.<br>🎯 Goals: Improve my skills.<br>🎲 Fun fact: I love tv shows and animes.</p>
 
 ###
 
